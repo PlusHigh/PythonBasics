@@ -3,7 +3,8 @@
 
 int main()
 {
- char i = 255;
+    
+ signed char i = 127;
  unsigned short j = 65535;
  unsigned short k = 0;
  // 上溢例子
